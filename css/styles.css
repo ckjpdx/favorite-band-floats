@@ -1,0 +1,13 @@
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: #c076e8;
+  border: 3px Dotted Black;
+}
+img {
+  float: left;
+  border: 10px solid red;
+}
+body{
+  border: 3px Solid Green;
+}
