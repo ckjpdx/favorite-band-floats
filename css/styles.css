@@ -5,9 +5,6 @@
   border: 3px Dotted Black;
 }
 img {
-  float: left;
-  border: 10px solid red;
-}
-body{
-  border: 3px Solid Green;
+  float: inherit;
+  border: 1px solid red;
 }
